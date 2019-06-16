@@ -1,0 +1,14 @@
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\bin\Debug\Wiskundeteller.exe.config
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\bin\Debug\Wiskundeteller.exe
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\bin\Debug\Wiskundeteller.pdb
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.Properties.Resources.resources
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.csproj.GenerateResource.cache
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.exe
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.pdb
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.Form1.resources
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\bin\Debug\Wiskundeteller.exe.manifest
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\bin\Debug\Wiskundeteller.application
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.exe.manifest
+C:\Users\Marcel\source\repos\Wiskundeteller\Wiskundeteller\obj\Debug\Wiskundeteller.application
